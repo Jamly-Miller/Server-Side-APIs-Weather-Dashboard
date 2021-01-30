@@ -1,0 +1,47 @@
+
+body {
+    background: linear-gradient(to right bottom, #49a09d, #5f2c82);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+      font-family: sans-serif;
+  }
+
+#header {
+    height: 100px;
+    margin-top: 20px;
+}
+
+#headerText {
+    margin-top: 5px;
+    font-family: 'Potta One', cursive;
+    color: #7fc430;
+    mix-blend-mode: hard-light;
+}
+
+#search-input {
+    margin-left: 10px;
+}
+
+#aside {
+    background: linear-gradient(to bottom right, #04c062, #faed32);
+    border-radius: 20px;
+    height: 600px;
+}
+
+#results {
+    background: linear-gradient(to bottom left, #04c062, #faed32);
+    border-radius: 20px;  
+}
+
+h4 {
+    margin-left: 40px;
+}
+
+h5 {
+    margin-left: auto;
+    margin-top: auto;
+}
+
+#cardbody {
+    background: linear-gradient(to right bottom, #49a09d, #5f2c82);
+}
