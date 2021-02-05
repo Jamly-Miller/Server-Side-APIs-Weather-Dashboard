@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", function(event) { 
+  
+  //code
+
 function getSearchVal() {
   var searchValue = document.querySelector("#search-value").value;
   searchWeather(searchValue);
@@ -171,3 +175,5 @@ function getUVIndex(lat, lon) {
 }
 
 document.querySelector("#search-button").addEventListener("click", getSearchVal);
+
+});
