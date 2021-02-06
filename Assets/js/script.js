@@ -58,7 +58,7 @@ function searchWeather(searchValue) {
       var imgEl = document.createElement("img");
       imgEl.setAttribute(
         "src",
-        "http://openweathermap.org/img/w/" + data.weather[0].icon + ".png"
+        "http://openweathermap.org/img/wn/" + data.weather[0].icon + ".png"
       );
 
       titleEl.appendChild(imgEl);
@@ -117,7 +117,7 @@ function getForecast(searchValue) {
           var imgEl = document.createElement("img");
           imgEl.setAttribute(
             "src",
-            "http://openweathermap.org/img/w/" +
+            "http://openweathermap.org/img/wn/" +
               data.list[i].weather[0].icon +
               ".png"
           );
