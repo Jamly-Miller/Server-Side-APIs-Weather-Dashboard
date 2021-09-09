@@ -47,6 +47,7 @@ Default Browser : As your personal choice
 
 * jQuery (jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.)
 
+* JSON (JSON is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays.)
 
 ## Testes
 
