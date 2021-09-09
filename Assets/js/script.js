@@ -1,6 +1,4 @@
 document.addEventListener("DOMContentLoaded", function(event) { 
-  
-  //code
 
 function getSearchVal() {
   var searchValue = document.querySelector("#search-value").value;
